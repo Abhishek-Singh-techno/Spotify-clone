@@ -2,7 +2,7 @@
 
 A pixel-conscious recreation of the Spotify web player UI, built using **only HTML5 and CSS3**: no JavaScript, no frameworks, no libraries.
 
-**[🔗 Live Demo](https://abhishek-singh-techno.github.io/Spotify-clone/)**
+**[🔗 Live Demo](https://calm-paprenjak-5fc4cd.netlify.app)**
 
 
 ## 💡 Why I Built This
