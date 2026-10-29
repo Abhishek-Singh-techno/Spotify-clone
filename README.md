@@ -60,7 +60,7 @@ cd spotify-clone
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Abhishek Singh**, an aspiring front-end developer who loves turning designs into clean, responsive interfaces. I'm currently building projects to strengthen my HTML, CSS and JavaScript skills, and I'm open to internship and junior developer opportunities.
+Hi, I'm **Abhishek Singh**, an front-end developer who loves turning designs into clean, responsive interfaces. I'm currently building projects to strengthen my HTML, CSS and JavaScript skills, and I'm open to internship and developer opportunities.
 
 📧 [abhishekvishen08@gmail.com](mailto:abhishekvishen08@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-singh-307162306/) · 🐙 [GitHub](https://github.com/Abhishek-Singh-techno)
 
